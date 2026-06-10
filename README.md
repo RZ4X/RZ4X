@@ -7,25 +7,25 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- لقب مرعب لكن أخلاقي -->
-<h1>🔥 THE ETHICAL HARDENER 🔥</h1>
+<h1> - THE ETHICAL HARDENER -</h1>
 <p><i>"I break things with permission. I harden them with purpose."</i></p>
 
 ---
 
-## 🧨 SECURE STACK – TERRIFYINGLY STRONG
+## - SECURE STACK – TERRIFYINGLY STRONG -
 
 | Language | Ethical Security Domain |
 |:--------:|:-----------------------:|
-| 🔥 **HTML / DOM** | XSS Exorcism • CSP Architect • DOM Sanitizer |
-| 🔥 **Python** | Exploit Frameworks • Fuzzing Engines • SAST Automation |
-| 🔥 **Java** | Bytecode Inquisitor • JWT Armor • Serialization Guardian |
-| 🔥 **C / C++** | Memory Warden • Overflow Slayer • Static Analysis Enforcer |
+| - **HTML / DOM** | XSS Exorcism • CSP Architect • DOM Sanitizer |
+| - **Python** | Exploit Frameworks • Fuzzing Engines • SAST Automation |
+| - **Java** | Bytecode Inquisitor • JWT Armor • Serialization Guardian |
+| - **C / C++** | Memory Warden • Overflow Slayer • Static Analysis Enforcer |
 
 ---
 
-## 🔪 CODE THAT PROTECTS & TERRIFIES
+## + CODE THAT PROTECTS & TERRIFIES
 
-### 🌐 HTML – The Unbreakable Web
+### - HTML – The Unbreakable Web
 
 ```html
 <!-- سيف أمان مزدوج: CSP + Sanitization -->
