@@ -1,43 +1,39 @@
-# - Zaid Alaa – Ethical Cyber Security Engineer -
+<div align="center">
 
-**Secure Code • Vulnerability Assessment • Defensive Exploitation**  
-*Penetration testing with permission. Hardening with purpose.*
+<!-- Header: أنيميشن ناري فخم -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=F74C0C&center=true&vCenter=true&width=700&lines=Zaid+Alaa;Ethical+Cyber+Security+Engineer;Secure+Code+%7C+Vulnerability+Hunter;HTML+%7C+Python+%7C+Java+%7C+C%2FC%2B%2B" alt="Typing Animation" />
 
----
+<!-- خط فاصل ناري -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## - Core Security Stack -
-
-| Language | Ethical Security Focus |
-|----------|------------------------|
-| **HTML / DOM** | XSS prevention, CSP implementation, secure sanitization |
-| **Python** | Exploit scripting, fuzzing, secure automation, SAST tools |
-| **Java** | Bytecode analysis, secure deserialization, JWT hardening |
-| **C / C++** | Memory safety, buffer overflow mitigation, static analysis |
+<!-- لقب مرعب لكن أخلاقي -->
+<h1>🔥 THE ETHICAL HARDENER 🔥</h1>
+<p><i>"I break things with permission. I harden them with purpose."</i></p>
 
 ---
 
-## - Security Philosophy (Ethical by Design)
+## 🧨 SECURE STACK – TERRIFYINGLY STRONG
 
-- **Authorization first** – Never test without written consent.  
-- **Disclosure responsibility** – Report vulnerabilities, don’t weaponize.  
-- **Defense in depth** – Assume breach, but build barriers.  
-- **Continuous learning** – CVEs are lessons, not trophies.  
+| Language | Ethical Security Domain |
+|:--------:|:-----------------------:|
+| 🔥 **HTML / DOM** | XSS Exorcism • CSP Architect • DOM Sanitizer |
+| 🔥 **Python** | Exploit Frameworks • Fuzzing Engines • SAST Automation |
+| 🔥 **Java** | Bytecode Inquisitor • JWT Armor • Serialization Guardian |
+| 🔥 **C / C++** | Memory Warden • Overflow Slayer • Static Analysis Enforcer |
 
 ---
 
-## - Secure & Ethical Code Examples
+## 🔪 CODE THAT PROTECTS & TERRIFIES
 
-### - HTML + CSP – Defensive Frontend
+### 🌐 HTML – The Unbreakable Web
 
 ```html
-<!-- Strict CSP to block XSS and injection -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; object-src 'none';">
-
-<!-- Safe DOM sanitization -->
+<!-- سيف أمان مزدوج: CSP + Sanitization -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; object-src 'none'">
 <script>
-function sanitizeInput(raw) {
-    const temp = document.createElement('div');
-    temp.textContent = raw;
-    return temp.innerHTML;
-}
+  const sanitize = raw => {
+    const div = document.createElement('div');
+    div.textContent = raw;
+    return div.innerHTML;
+  };
 </script>
