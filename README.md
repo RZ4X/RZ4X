@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0055FF&height=120&section=header&text=Zaid%20Alaa&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%">
-</p>
-
-<p align="center">
-  <b> Secure Software Engineer • Systems Architect • Zero‑Trust Advocate</b><br>
-  <i>Eight years of hardening production systems. No undefined behavior allowed.</i>
+  <b><font size="6">💀 ZAID ALAA – THE SYSTEM HARDENER 💀</font></b><br>
+  <i>"Your code has vulnerabilities. I find them in my sleep."</i>
 </p>
 
 ---
 
-## - Core Principles -
+## - WARNING: SECURITY LEVELS EXCEEDED -
 
 ```text
-☑  Never trust input – validate or die.
-☑  Memory is a weapon – control it or be destroyed.
-☑  Concurrency without locks is chaos.
-☑  Cryptography is mathematics, not magic.
-☑  Log everything. Assume breach.
+┌─────────────────────────────────────────────────────────────┐
+│  - Zero-day hunter    - Memory exorcist    - Stack ghost │
+│  - JVM breaker        - API strangler      - Log eater   │
+└─────────────────────────────────────────────────────────────┘
